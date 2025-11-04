@@ -23,4 +23,6 @@
         <item>307</item>
     </integer-array>
 
+    <!-- Show advanced refresh rate option -->
+    <bool name="config_show_advanced_refresh_rate" translatable="false">false</bool>
 </resources>
